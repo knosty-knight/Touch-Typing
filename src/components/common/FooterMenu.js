@@ -186,14 +186,14 @@ const FooterMenu = ({
                   {GITHUB_TOOLTIP_TITLE}
                     <Link
                       margin="inherit"
-                      href="https://github.com/Sam-Rana12/Touch-Typing"
+                      href="https://github.com/knosty-knight/Touch-Typing"
                       target="_blank"
                     >
                       {}
                     </Link>
                     <Link
                       margin="inherit"
-                      href="https://github.com/Sam-Rana12/Touch-Typing"
+                      href="https://github.com/knosty-knight/Touch-Typing"
                       target="_blank"
                     >
                       {GITHUB_REPO_LINK}
@@ -203,7 +203,7 @@ const FooterMenu = ({
               placement="top-start"
             >
               <IconButton
-                href="https://github.com/Sam-Rana12/Touch-Typing"
+                href="https://github.com/knosty-knight/Touch-Typing"
                 color="inherit"
                 target="_blank"
               >
